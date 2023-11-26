@@ -1,0 +1,19 @@
+.container {
+  width: 900px;
+}
+
+.card {
+  background-color: lightblue;
+}
+
+.card-title {
+  color: darkslateblue;
+}
+
+.card-body {
+  background-color: lightblue;
+}
+
+.form-group {
+  text-align: left;
+}
